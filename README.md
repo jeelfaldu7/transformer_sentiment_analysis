@@ -2,9 +2,9 @@
 
 ## 🧠 Overview
 
-For the October Code Jam, our team explored how natural language processors understands emotions in text using Hugging Face Transformers. We built a sentiment analysis model that classifies social media posts as angry, disgust, happy, sad, or surprise.
+For the October Code Jam, our team explored how natural language processors identifies emotions in text using Hugging Face Transformers. We built a sentiment analysis model that classifies social media posts as angry, disgust, happy, sad, or surprise.
 
-We started with pretrained transformer models, trained them on our data, and visualized how sentiment trends appear across datasets. Next, we retrained the better performing model on a new dataset to improve model accuracy. In the final phase, we applied the best model to a creative dataset to see how sentiment shifits in read-world text. 
+We started with pretrained transformer models, trained them on our data, and visualized how sentiment trends appear across an initial dataset. Next, we retrained the better performing model on an expanded dataset to improve model accuracy. In the final phase, we applied the best model to a creative dataset to see how sentiment shifits in read-world text. 
 
 ## 🎯 What We Did
 
